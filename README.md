@@ -4,4 +4,4 @@ python -m streamlit run .\app.py
 
 web link
 
-https://extractpdftable-xdsev735zwyxoyjf6enmqt.streamlit.app/
+https://extractpdftablev0-rg8awkxvcappjursgybu4qm.streamlit.app/
